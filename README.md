@@ -14,6 +14,13 @@ Default credentials
 - Region: RegionOne
 - URL: `http://${CONTAINER_HOSTNAME}:5000/v2.0`
 
+Download image
+--------------
+
+```bash
+docker pull internap/docker-keystone
+```
+
 Build Docker image
 ------------------
 
